@@ -23,7 +23,7 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,github,linux,xd,figma)](https://skillicons.dev)
 
 # **📈Statistics**
-![Stats](https://github-readme-stats.vercel.app/api?username=sabarishwar7&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=sabarishwar7&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)<br />
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sabarishwar7&theme=tokyonight&hide_border=true)
 
 
