@@ -3,10 +3,10 @@
 
 <hr>
 
-- 🌱 I’m currently learning MERN stack
+- 🌱 I’m currently learning React Native and AI
 - 👯 I’m looking to collaborate on Web development 
-- 👀 I’m interested in becoming a UI/UX Designer
-- 📫 Reach me:sabarishwar2004@gmail.com
+- 👀 I’m interested in designing and developing
+- 📫 Reach me:sabarishwarr7@gmail.com
 # Programming Languages known
 [![My Skills](https://skillicons.dev/icons?i=c,py,js)](https://skillicons.dev)
 <br/>
