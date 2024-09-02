@@ -3,21 +3,28 @@
 
 <hr>
 
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning MERN stack
 - 👯 I’m looking to collaborate on Web development 
-- 👀 I’m interested in Designing and Developing
-- 📫 Reach me:sabarishwarr7@gmail.com
+- 👀 I’m interested in becoming a UI/UX Designer
+- 📫 Reach me:sabarishwar2004@gmail.com
 # Programming Languages known
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,django,java,perl)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,py,js)](https://skillicons.dev)
 <br/>
 
 # Front-End
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,figma)](https://skillicons.dev)
 <br/>
 
 # Back-End
-[![My Skills](https://skillicons.dev/icons?i=mysql,django)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,django,nodejs)](https://skillicons.dev)
 <br />
+
+# Tools Used
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,linux,xd,figma)](https://skillicons.dev)
+
+# **📈Statistics**
+![Stats](https://github-readme-stats.vercel.app/api?username=sabarishwar7&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)<br />
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sabarishwar7&theme=tokyonight&hide_border=true)
 
 # Tools Used
 [![My Skills](https://skillicons.dev/icons?i=vscode,github,linux,xd,figma)](https://skillicons.dev)
